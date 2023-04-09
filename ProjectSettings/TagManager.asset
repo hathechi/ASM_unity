@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Batas_Mati
+  - NGUOICHOI
+  - MATDAT
+  - GIOIHANROI
+  - QUAIVAT
+  - QUAYDAU
+  - HOMDO
+  - TIM
+  - CUAQUAMAN
+  - KEY
+  - CUAQUAMAN2
+  - Batas
+  - TRAP
+  - Diamon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - quaivat
+  - nguoichoi
+  - quaydau
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: canhvat
+    uniqueID: 2589187679
+    locked: 0
+  - name: quaivat
+    uniqueID: 3712211739
+    locked: 0
+  - name: nhanvat
+    uniqueID: 2551516235
+    locked: 0
+  - name: layerUI
+    uniqueID: 2514855119
+    locked: 0

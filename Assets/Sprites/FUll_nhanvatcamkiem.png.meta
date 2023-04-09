@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: e21d5419625a6ff4ca281cd2d701b3a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2705786058355471142
+    second: FUll_nhanvatcamkiem_0
+  - first:
+      213: -8157873901895995320
+    second: FUll_nhanvatcamkiem_1
+  - first:
+      213: 5178635177486988312
+    second: FUll_nhanvatcamkiem_2
+  - first:
+      213: 2945361693518174556
+    second: FUll_nhanvatcamkiem_4
+  - first:
+      213: -5476858275361615806
+    second: FUll_nhanvatcamkiem_5
+  - first:
+      213: -8584291354420655508
+    second: FUll_nhanvatcamkiem_6
+  - first:
+      213: -7472667401820995580
+    second: FUll_nhanvatcamkiem_10
+  - first:
+      213: -2190004517601372542
+    second: FUll_nhanvatcamkiem_11
+  - first:
+      213: 2732558141690828617
+    second: FUll_nhanvatcamkiem_12
+  - first:
+      213: 3582989548137656077
+    second: FUll_nhanvatcamkiem_14
+  - first:
+      213: -6496023228797954421
+    second: FUll_nhanvatcamkiem_15
+  - first:
+      213: -8057747823033454916
+    second: FUll_nhanvatcamkiem_16
+  - first:
+      213: 6172303506217703655
+    second: FUll_nhanvatcamkiem_28
+  - first:
+      213: -3223082527326077566
+    second: FUll_nhanvatcamkiem_29
+  - first:
+      213: 7521974726878456943
+    second: FUll_nhanvatcamkiem_30
+  - first:
+      213: 2745763388882419873
+    second: FUll_nhanvatcamkiem_32
+  - first:
+      213: -1679721527936415039
+    second: FUll_nhanvatcamkiem_33
+  - first:
+      213: 3916704050168125620
+    second: FUll_nhanvatcamkiem_34
+  - first:
+      213: -2095151213893101124
+    second: FUll_nhanvatcamkiem_3
+  - first:
+      213: 1376427375747925362
+    second: FUll_nhanvatcamkiem_7
+  - first:
+      213: -4158935750797437186
+    second: FUll_nhanvatcamkiem_8
+  - first:
+      213: 1327469836136394237
+    second: FUll_nhanvatcamkiem_9
+  - first:
+      213: 852219688495031938
+    second: FUll_nhanvatcamkiem_31
+  - first:
+      213: -762236337700303068
+    second: FUll_nhanvatcamkiem_35
+  - first:
+      213: 3944220186023815199
+    second: FUll_nhanvatcamkiem_36
+  - first:
+      213: 399104442589755960
+    second: FUll_nhanvatcamkiem_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 846
+        width: 216
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc84817aed137ad0800000000000000
+      internalID: -2705786058355471142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 843
+        width: 206
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8403f0398e869ce80800000000000000
+      internalID: -8157873901895995320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 851
+        width: 187
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814347f91453ed740800000000000000
+      internalID: 5178635177486988312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_4
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 836
+        width: 214
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599135ead600e820800000000000000
+      internalID: 2945361693518174556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_5
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 817
+        width: 218
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24099eb8a6a4ef3b0800000000000000
+      internalID: -5476858275361615806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_6
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 850
+        width: 215
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6acc43ae787ed880800000000000000
+      internalID: -8584291354420655508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 515
+        width: 232
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40081d50790cb4890800000000000000
+      internalID: -7472667401820995580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 516
+        width: 232
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2869edf8e7a8b91e0800000000000000
+      internalID: -2190004517601372542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_12
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 531
+        width: 232
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9475593f62ffbe520800000000000000
+      internalID: 2732558141690828617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_14
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 523
+        width: 232
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0faea2b20659b130800000000000000
+      internalID: 3582989548137656077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_15
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 524
+        width: 232
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86dfc27a4d79d5a0800000000000000
+      internalID: -6496023228797954421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_16
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 531
+        width: 232
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee966fb012d2090800000000000000
+      internalID: -8057747823033454916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 193
+        width: 161
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8110e265d68a550800000000000000
+      internalID: 6172303506217703655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 193
+        width: 138
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28df5fc948f4543d0800000000000000
+      internalID: -3223082527326077566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_30
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 224
+        width: 182
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c6e05392c636860800000000000000
+      internalID: 7521974726878456943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_32
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 204
+        width: 187
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a00c972149ea1620800000000000000
+      internalID: 2745763388882419873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_33
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 198
+        width: 174
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca06cd7b2e60b8e0800000000000000
+      internalID: -1679721527936415039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_34
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 201
+        width: 193
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8da90059dea5630800000000000000
+      internalID: 3916704050168125620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 840
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb95c2152178ce2e0800000000000000
+      internalID: -2095151213893101124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 831
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2750496d76d0a1310800000000000000
+      internalID: 1376427375747925362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_8
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 827
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6db0a38fd7846c0800000000000000
+      internalID: -4158935750797437186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_9
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 832
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfda4f068ce1c6210800000000000000
+      internalID: 1327469836136394237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_31
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 209
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286275b9a41b3db00800000000000000
+      internalID: 852219688495031938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_35
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 185
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f8a70e61efb65f0800000000000000
+      internalID: -762236337700303068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_36
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 188
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18efdf9c5facb630800000000000000
+      internalID: 3944220186023815199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FUll_nhanvatcamkiem_37
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 179
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ab7d04067e98500800000000000000
+      internalID: 399104442589755960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

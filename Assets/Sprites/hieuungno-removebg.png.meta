@@ -1,0 +1,937 @@
+fileFormatVersion: 2
+guid: e8c2607d0aaa73540ac62949dacef53d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1183327224634527325
+    second: hieuungno-removebg_0
+  - first:
+      213: -5206490386847925791
+    second: hieuungno-removebg_1
+  - first:
+      213: -7489074532933703353
+    second: hieuungno11
+  - first:
+      213: -625047774986928641
+    second: hieuungno-removebg_4
+  - first:
+      213: -7312867482725894601
+    second: hieuungno-removebg_5
+  - first:
+      213: 9210350085618899671
+    second: hieuungno-removebg_6
+  - first:
+      213: -5713412300554020434
+    second: hieuungno-removebg_7
+  - first:
+      213: 4658501315970906852
+    second: hieuungno-removebg_8
+  - first:
+      213: 8216791099176983884
+    second: hieuungno-removebg_9
+  - first:
+      213: 4625796779956849792
+    second: hieuungno-removebg_10
+  - first:
+      213: -7414791522246396072
+    second: hieuungno-removebg_11
+  - first:
+      213: -1612826599822355022
+    second: hieuungno-removebg_12
+  - first:
+      213: 6142379801587375575
+    second: hieuungno-removebg_13
+  - first:
+      213: 3789916766201212669
+    second: hieuungno-removebg_14
+  - first:
+      213: 4877072778997219511
+    second: hieuungno-removebg_15
+  - first:
+      213: -3799461920072994872
+    second: hieuungno-removebg_17
+  - first:
+      213: 3284041039510497581
+    second: hieuungno-removebg_18
+  - first:
+      213: -1886509780656039242
+    second: hieuungno-removebg_19
+  - first:
+      213: 8258701807395371372
+    second: hieuungno-removebg_20
+  - first:
+      213: -6053314678624643740
+    second: hieuungno-removebg_21
+  - first:
+      213: -8896262359818443703
+    second: hieuungno-removebg_22
+  - first:
+      213: -3888531181340816627
+    second: hieuungno-removebg_23
+  - first:
+      213: -1825232477516174906
+    second: hieuungno-removebg_24
+  - first:
+      213: 4081127066746441484
+    second: hieuungno-removebg_25
+  - first:
+      213: -8448159567924871092
+    second: hieuungno-removebg_26
+  - first:
+      213: 6132104276468942899
+    second: hieuungno-removebg_27
+  - first:
+      213: 465248180206970594
+    second: hieuungno-removebg_28
+  - first:
+      213: -5986165166091483432
+    second: hieuungno-removebg_29
+  - first:
+      213: 1711937561450432556
+    second: hieuungno-removebg_30
+  - first:
+      213: -6257882669117376714
+    second: hieuungno-removebg_31
+  - first:
+      213: -5795817640411999787
+    second: hieuungno-removebg_32
+  - first:
+      213: -8138412084334608112
+    second: hieuungno-removebg_33
+  - first:
+      213: 2624333723315894408
+    second: hieuungno-removebg_34
+  - first:
+      213: 827636318116514353
+    second: hieuungno-removebg_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hieuungno-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 590
+        width: 893
+        height: 836
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ec36d57d50c6010800000000000000
+      internalID: 1183327224634527325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 505
+        width: 1041
+        height: 1068
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9717d0494deb7b0800000000000000
+      internalID: -5206490386847925791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno11
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 495
+        width: 1109
+        height: 1127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ef002466711890800000000000000
+      internalID: -7489074532933703353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 7185
+        y: 729
+        width: 795
+        height: 745
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd714c3c526357f0800000000000000
+      internalID: -625047774986928641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 8528
+        y: 1004
+        width: 800
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7363e9a05c9738a90800000000000000
+      internalID: -7312867482725894601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 603
+        width: 700
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da9d46ba9cb1df70800000000000000
+      internalID: 9210350085618899671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1266
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9512a98c1e5b0b0800000000000000
+      internalID: -5713412300554020434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 7918
+        y: 1213
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eab22cd34256a040800000000000000
+      internalID: 4658501315970906852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1169
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d190468f7e70270800000000000000
+      internalID: 8216791099176983884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1193
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c4970b9a1223040800000000000000
+      internalID: 4625796779956849792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 8450
+        y: 1095
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857fce0556e591990800000000000000
+      internalID: -7414791522246396072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1081
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59949a0c61e99e0800000000000000
+      internalID: -1612826599822355022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1120
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd5625c2ed1e3550800000000000000
+      internalID: 6142379801587375575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 8001
+        y: 1012
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe68b1183d789430800000000000000
+      internalID: 3789916766201212669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 686
+        width: 442
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b04bd74ad7dea340800000000000000
+      internalID: 4877072778997219511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 8533
+        y: 715
+        width: 344
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfec6c9389954bc0800000000000000
+      internalID: -3799461920072994872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 8422
+        y: 837
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e3d30de1439d20800000000000000
+      internalID: 3284041039510497581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 8430
+        y: 954
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba52b28955c1d5e0800000000000000
+      internalID: -1886509780656039242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 8929
+        y: 725
+        width: 336
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c697daf898dcc9270800000000000000
+      internalID: 8258701807395371372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 7349
+        y: 588
+        width: 271
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4659be22f5e4efba0800000000000000
+      internalID: -6053314678624643740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 7953
+        y: 807
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944e756a4802a8480800000000000000
+      internalID: -8896262359818443703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 7962
+        y: 769
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b862e2e79290ac0800000000000000
+      internalID: -3888531181340816627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 7791
+        y: 623
+        width: 175
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c964217bb87ba6e0800000000000000
+      internalID: -1825232477516174906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 8577
+        y: 700
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f47a8c17313a830800000000000000
+      internalID: 4081127066746441484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 9016
+        y: 632
+        width: 150
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40450c12ab12ca80800000000000000
+      internalID: -8448159567924871092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 642
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c594a95c991550800000000000000
+      internalID: 6132104276468942899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 7644
+        y: 632
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e622a141c4e47600800000000000000
+      internalID: 465248180206970594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 7742
+        y: 646
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6cc4c5f7edceca0800000000000000
+      internalID: -5986165166091483432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 8621
+        y: 578
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28c6e3542602c710800000000000000
+      internalID: 1711937561450432556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 8772
+        y: 617
+        width: 77
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6377f2d3ed88729a0800000000000000
+      internalID: -6257882669117376714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 8865
+        y: 637
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1dc48409e119fa0800000000000000
+      internalID: -5795817640411999787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 8963
+        y: 646
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0114d75145d8e0f80800000000000000
+      internalID: -8138412084334608112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 565
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887256fd918b6420800000000000000
+      internalID: 2624333723315894408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hieuungno-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 540
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a0c88a8da5c7b00800000000000000
+      internalID: 827636318116514353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
