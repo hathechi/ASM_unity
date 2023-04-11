@@ -166,6 +166,7 @@ public class diChuyenNV : MonoBehaviour
     //them diem khi nhat diamon
     public void addDiamon(float diem)
     {
+        sound_vatPham.Play(0);
         diemBanDau += diem;
         diamon.text = diemBanDau.ToString();
         diemDungChung.diem = diemBanDau;
