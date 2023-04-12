@@ -190,7 +190,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damge: 10
   pushBackForce: 5
-  sound_damage: {fileID: 0}
+  sound_damage: {fileID: 2163160793079847846, guid: 1d50c8ea118887348832390d905c06a1, type: 3}
 --- !u!1 &8772738730684935230
 GameObject:
   m_ObjectHideFlags: 0

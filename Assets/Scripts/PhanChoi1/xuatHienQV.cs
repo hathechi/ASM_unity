@@ -9,10 +9,10 @@ public class xuatHienQV : MonoBehaviour
     [SerializeField]
     private GameObject[] taoQuaiVat;
     // tạo biến chứa vị trí xuất hiện của quái vật
+    // private Transform vtXuatHien1;
     [SerializeField]
 
-    private Transform vtXuatHien1;
-    // private Transform vtXuatHien1, vtXuatHien2;
+    private Transform[] vtXuatHien;
     // tạo biến sinh ra quái
     private GameObject hienQV;
     private int ranDomQV;
@@ -29,25 +29,29 @@ public class xuatHienQV : MonoBehaviour
     {
         for (int i = 0; i < soLanXuatHien; i++)
         {
+            Debug.Log("Xuat Hien");
             yield return new WaitForSeconds(thoiGianXuatHien);
-            // ranDomQV = UnityEngine.Random.Range(0, taoQuaiVat.Length);
-            // ranDomViTri = UnityEngine.Random.Range(0, 2);
-            // hienQV = Instantiate(taoQuaiVat[ranDomQV]);
-            hienQV = Instantiate(taoQuaiVat[0]);
-            hienQV.transform.position = vtXuatHien1.position;
-            if (hienQV == taoQuaiVat[0])
-            {
-                hienQV.transform.localScale = new Vector3(1f, 1f, 1f);
-            }
-            if (taoQuaiVat.Length > 1)
-            {
-                if (i == soLanXuatHien - 1)
-                {
-                    hienQV = Instantiate(taoQuaiVat[1]);
-                    hienQV.transform.position = vtXuatHien1.position;
-                    hienQV.transform.localScale = new Vector3(2f, 2f, 2f);
-                }
-            }
+
+            ranDomQV = UnityEngine.Random.Range(0, taoQuaiVat.Length);
+            ranDomViTri = UnityEngine.Random.Range(0, vtXuatHien.Length);
+            //xem qv nào được xuất hiện
+            hienQV = Instantiate(taoQuaiVat[ranDomQV]);
+            // hienQV = Instantiate(taoQuaiVat[0]);
+            hienQV.transform.position = vtXuatHien[ranDomViTri].position;
+
+            // if (hienQV == taoQuaiVat[ranDomQV])
+            // {
+            //     hienQV.transform.localScale = new Vector3(1f, 1f, 1f);
+            // }
+            // if (taoQuaiVat.Length > 1)
+            // {
+            //     if (i == soLanXuatHien - 1)
+            //     {
+            //         hienQV = Instantiate(taoQuaiVat[1]);
+            //         hienQV.transform.position = vtXuatHien1.position;
+            //         hienQV.transform.localScale = new Vector3(2f, 2f, 2f);
+            //     }
+            // }
 
         }
     }

@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ManChoi1.unity
+    path: Assets/Scenes/Map5.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Menu.unity
@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Replay.unity
     guid: 1a3a8c011c531834cb63484718026cab
   - enabled: 1
-    path: Assets/Scenes/Man2.unity
+    path: Assets/Scenes/Map3.unity
     guid: 3fe375cf96ab53b4e9ae7eccac14e5a5
   - enabled: 1
     path: Assets/Scenes/Finish.unity
@@ -24,13 +24,13 @@ EditorBuildSettings:
     path: Assets/Scenes/HuongDan.unity
     guid: 20a033a69f928ec478017ccce644818e
   - enabled: 1
-    path: Assets/Scenes/Man3.unity
+    path: Assets/Scenes/Map1.unity
     guid: 5c70cf0275472a449bd704bc97a05c94
   - enabled: 1
-    path: Assets/Scenes/Man4.unity
+    path: Assets/Scenes/Map4.unity
     guid: 2a0a9a6976346214f8903df73324c7f2
   - enabled: 1
-    path: Assets/Scenes/Man5.unity
+    path: Assets/Scenes/Map2.unity
     guid: d0cbc252a4234514aa04e2d4fa6def29
   - enabled: 1
     path: Assets/Scenes/SignIn-SignUp.unity

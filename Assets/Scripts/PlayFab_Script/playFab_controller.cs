@@ -60,7 +60,7 @@ public class playFab_controller : MonoBehaviour
             diemDungChung.namePlayerStatic = txtEmail_login.text;
             Debug.Log("Login Success");
             Debug.Log(" diemDungChung.namePlayerStatic: " + diemDungChung.namePlayerStatic);
-            SceneManager.LoadScene("Man4");
+            SceneManager.LoadScene("Menu");
         }
         void onErrorLogin(PlayFabError error)
         {

@@ -158,8 +158,8 @@ public class diChuyenNV : MonoBehaviour
         //roi xuong vuc chet
         if (other.gameObject.CompareTag("GIOIHANROI"))
         {
-            Destroy(gameObject);
             diemDungChung.nameScenesStatic = nameScenes;
+            Destroy(gameObject);
             SceneManager.LoadScene("Replay");
         }
     }
@@ -193,23 +193,23 @@ public class diChuyenNV : MonoBehaviour
 
             //Lấy tên Scenes hiện tại
             nameScenes = SceneManager.GetActiveScene().name;
-            if (nameScenes == "ManChoi1")
+            if (nameScenes == "Map1")
             {
-                nameScenes = "Man2";
+                nameScenes = "Map2";
             }
-            else if (nameScenes == "Man2")
+            else if (nameScenes == "Map2")
             {
-                nameScenes = "Man3";
+                nameScenes = "Map3";
             }
-            else if (nameScenes == "Man3")
+            else if (nameScenes == "Map3")
             {
-                nameScenes = "Man4";
+                nameScenes = "Map4";
             }
-            else if (nameScenes == "Man4")
+            else if (nameScenes == "Map4")
             {
-                nameScenes = "Man5";
+                nameScenes = "Map5";
             }
-            else if (nameScenes == "Man5")
+            else if (nameScenes == "Map5")
             {
                 nameScenes = "Finish";
             }

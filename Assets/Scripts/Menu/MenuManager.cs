@@ -1,27 +1,30 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
-    string nameScenes;
     public GameObject panel;
+    List<string> listMaps = new List<string> { "Map1", "Map2", "Map3", "Map4", "Map5" };
 
-    void Start()
+    public Text userName;
+    private void Start()
     {
-        nameScenes = SceneManager.GetActiveScene().name;
-
+        if (diemDungChung.namePlayerStatic != null)
+        {
+            userName.text = "Hi: " + diemDungChung.namePlayerStatic.ToString();
+        }
+        else
+        {
+            return;
+        }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
     public void Play()
     {
-        SceneManager.LoadScene("ManChoi1");
+        panel.SetActive(true);
     }
     public void Exit()
     {
@@ -37,13 +40,23 @@ public class MenuManager : MonoBehaviour
     }
     public void Level1()
     {
-        SceneManager.LoadScene("ManChoi1");
-
+        SceneManager.LoadScene(listMaps[0]);
     }
     public void Level2()
     {
-        SceneManager.LoadScene("Man2");
-
+        SceneManager.LoadScene(listMaps[1]);
+    }
+    public void Level3()
+    {
+        SceneManager.LoadScene(listMaps[2]);
+    }
+    public void Level4()
+    {
+        SceneManager.LoadScene(listMaps[3]);
+    }
+    public void Level5()
+    {
+        SceneManager.LoadScene(listMaps[4]);
     }
     // lấy scene hiện tại
     public void Replay()
