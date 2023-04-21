@@ -48,13 +48,15 @@ public class diChuyenNV : MonoBehaviour
     public Text userName;
 
     //Diem
-    float diemBanDau = 0;
+    int diemBanDau = 0;
     public Text diamon;
 
 
 
     void Start()
     {
+
+
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
@@ -164,12 +166,14 @@ public class diChuyenNV : MonoBehaviour
         }
     }
     //them diem khi nhat diamon
-    public void addDiamon(float diem)
+    public void addDiamon(int diem)
     {
         sound_vatPham.Play(0);
         diemBanDau += diem;
         diamon.text = diemBanDau.ToString();
         diemDungChung.diem = diemBanDau;
+        //Lưu điểm lên PlayFab
+        diemDungChung.playFab.Sendleaderboard(diemDungChung.diem);
 
     }
     //Người chơi nhặt được chìa khóa

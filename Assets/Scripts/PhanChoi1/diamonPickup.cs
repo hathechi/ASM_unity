@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class diamonPickup : MonoBehaviour
 {
-    public float diamonAmount;
+    public int diamonAmount;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

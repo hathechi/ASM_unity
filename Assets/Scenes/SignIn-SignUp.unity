@@ -2019,6 +2019,9 @@ MonoBehaviour:
   txtPass_regis: {fileID: 259295693}
   errorText: {fileID: 1659614062}
   pannelRegister: {fileID: 2076056512}
+  rowPrefab: {fileID: 0}
+  rowParent: {fileID: 0}
+  pannelDiem: {fileID: 0}
 --- !u!4 &1902382596
 Transform:
   m_ObjectHideFlags: 0

@@ -9,6 +9,8 @@ public class diemDungChung : MonoBehaviour
     public static float volumeStatic;
     public static string namePlayerStatic;
 
-    public static float diem = 0;
+    public static int diem = 0;
+
+    public static playFab_controller playFab = new playFab_controller();
 
 }

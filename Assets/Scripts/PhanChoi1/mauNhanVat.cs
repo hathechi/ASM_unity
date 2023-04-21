@@ -76,6 +76,8 @@ public class mauNhanVat : MonoBehaviour
 
         if (currentHealth < 1)
         {
+
+
             Destroy(gameObject);
             SceneManager.LoadScene("Replay");
         }
